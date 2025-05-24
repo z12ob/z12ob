@@ -34,9 +34,9 @@ I'm continuously learning and love transforming ideas into reliable, well-crafte
 
 ## 🛠 Project Highlights
 
-🔹 [100+ Python Mini Projects](#) — Games, tools, and web apps  
-🔹 [Full-Stack Portfolio Projects](#) — Real-world applications with clean architecture  
-🔹 [Flutter & Dart Apps](#) — Mobile projects built with Dart, Firebase, and Flutter
+🔹 [100+ Python Mini Projects](https://github.com/z12ob/Python-Projects-100-Days) — Games, tools, and web apps  
+🔹 [Full-Stack Portfolio Projects](https://github.com/z12ob/Full-Stack-Web-Development) — Real-world applications with clean architecture  
+🔹 [Flutter & Dart Apps](https://github.com/z12ob/Flutter-mobile-apps) — Mobile projects built with Dart, Firebase, and Flutter
 
 > *(Check out my repositories for more →)*
 
