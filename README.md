@@ -8,9 +8,9 @@
 ## 🚀 What I'm Working On
 
 - 🌐 Building full-stack applications using JavaScript, Node.js, and React  
-- 📱 Creating cross-platform mobile apps with Flutter & Dart  
-- 🤖 Exploring Arduino, IoT, and embedded systems  
+- 📱 Creating cross-platform mobile apps with Flutter & Dart   
 - 🧠 Diving into AI, machine learning, and emerging technologies
+- 🤖 Exploring embedded systems 
 
 ---
 
