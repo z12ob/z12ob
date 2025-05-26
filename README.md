@@ -1,38 +1,63 @@
-# 👋 Hello, I'm Guram Melikidze (aka z12ob)
+# 👋 Guram Melikidze (z12ob)
 
-💡 Full-Stack Developer | 🌍 Founder of [VertexNova.agency](https://vertexnova.agency)  
-🎓 Computer Engineering Student | 📍 Georgia 🇬🇪
-
----
-
-## 🚀 What I'm Working On
-
-- 🌐 Building full-stack applications using JavaScript, Node.js, and React  
-- 📱 Creating cross-platform mobile apps with Flutter & Dart   
-- 🧠 Diving into AI, machine learning, and emerging technologies
-- 🤖 Exploring embedded systems 
+**Full-Stack Developer & Digital Architect**  
+🌍 Founder of [VertexNova.agency](https://vertexnova.agency) | 🎓 Computer Engineering Student | 📍 Georgia 🇬🇪
 
 ---
 
-I'm a passionate and agile full-stack developer with a background in Computer Engineering and a deep interest in building modern, responsive, and impactful digital solutions.
+## 🎯 Current Focus
 
-As the founder of **VertexNova.agency**, I specialize in designing and developing custom web platforms — from elegant business sites to performance-driven e-commerce solutions. I focus on blending clean design, robust architecture, and user-centric development to deliver real value.
-
----
-
-### 🔧 My Strengths
-
-- Full-stack development (front-end & back-end)
-- WordPress and custom website development
-- Responsive, mobile-first UI/UX design
-- SEO, performance tuning, and secure hosting
-- Clear communication and client-focused thinking
-
-I'm continuously learning and love transforming ideas into reliable, well-crafted digital products. Whether I’m streamlining code, collaborating with a business, or refining UX — I bring clarity, energy, and a problem-solving mindset to every challenge.
+**Building Tomorrow's Digital Solutions**
+- Architecting full-stack applications with Node.js, Express, and React ecosystems
+- Crafting cross-platform mobile experiences using Flutter & Dart
+- Investigating AI integration patterns and machine learning applications
+- Prototyping IoT solutions with Arduino and embedded systems
+- Mastering C# and .NET Core for enterprise-grade backend systems
 
 ---
 
-## 📫 Let's Connect
+## 💭 Philosophy
 
+I bridge the gap between engineering precision and digital creativity. At **VertexNova.agency**, I transform business visions into robust web platforms—whether that's a conversion-optimized e-commerce engine or a minimalist brand showcase that actually performs.
+
+My approach? Write code that tells a story, solve problems that matter, and build systems that scale gracefully under pressure.
+
+---
+
+## 🔧 Technical Arsenal
+
+**Frontend & Mobile**
+- JavaScript ecosystem (React, Node.js, REST/GraphQL APIs)
+- Flutter & Dart for native-quality cross-platform apps
+- Modern CSS, responsive design, and performance optimization
+
+**Backend & Infrastructure**
+- C# and ASP.NET Core for scalable server architectures  
+- Database design and optimization strategies
+- Cloud deployment, CI/CD, and security best practices
+
+**Design & Strategy**
+- UI/UX principles that convert visitors into users
+- SEO engineering and Core Web Vitals optimization
+- Clean code methodologies and automated testing workflows
+
+---
+
+## 🌱 Learning Edge
+
+**Expanding Horizons**
+- Advanced .NET patterns and distributed system design
+- Algorithm optimization and data structure mastery
+- AI toolchain integration and prompt engineering techniques
+- Kubernetes, microservices, and cloud-native architectures
+
+---
+
+## 🤝 Let's Build Something
+
+Ready to collaborate on projects that push boundaries? Whether you're launching a startup, scaling an existing platform, or exploring emerging tech integrations—I'm here for meaningful conversations and impactful partnerships.
+
+**Connect:**
 - 💼 [LinkedIn](https://www.linkedin.com/in/guram-melikidze/)  
-- 🌐 [VertexNova.agency](https://vertexnova.agency/)
+- 🌐 [VertexNova.agency](https://vertexnova.agency/)  
+- 💬 Open for freelance projects, technical discussions, and startup collaborations
