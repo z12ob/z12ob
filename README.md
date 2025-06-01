@@ -1,6 +1,6 @@
 # 👋 Guram Melikidze (z12ob)
 
-**Full-Stack Developer & Digital Architect**  
+**Full-Stack Software Engineer**  
 🌍 Founder of [VertexNova.agency](https://vertexnova.agency) | 🎓 Computer Engineering Student | 📍 Georgia 🇬🇪
 
 ---
@@ -23,18 +23,6 @@ I bridge the gap between engineering precision and digital creativity. At **Vert
 My approach? Write code that tells a story, solve problems that matter, and build systems that scale gracefully under pressure.
 
 ---
-
-## 🔧 Technical Arsenal
-
-**Frontend & Mobile**
-- JavaScript ecosystem (React, Node.js, REST/GraphQL APIs)
-- Flutter & Dart for native-quality cross-platform apps
-- Modern CSS, responsive design, and performance optimization
-
-**Backend & Infrastructure**
-- C# and ASP.NET Core for scalable server architectures  
-- Database design and optimization strategies
-- Cloud deployment, CI/CD, and security best practices
 
 **Design & Strategy**
 - UI/UX principles that convert visitors into users
