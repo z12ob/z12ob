@@ -61,11 +61,11 @@ I build **systems that mix hardware, software, and field-ready product design**.
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=z12ob&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=z12ob&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=z12ob&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=z12ob&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=z12ob&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=z12ob&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&include_all_commits=true)
 
 </div>
 
