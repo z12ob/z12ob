@@ -16,12 +16,12 @@
 
 ## About Me
 
-I build **systems that mix hardware, software, and field-ready product design**. Real devices. Real constraints. Real users.
+I build **systems that span full-stack development, data analysis, and hardware**—bridging the gap between concept and production.
 
-- 🔭 **Currently working on** production-grade systems that bridge hardware and software
-- 🌱 **Currently learning** higher level system architecture and aligning engineering with product strategy
-- 👯 **Looking to collaborate on** projects where technical depth matters
-- 💬 **Ask me about** embedded systems, hardware design, full stack development
+- 🔭 **Currently working on** AI-driven platforms, data-driven optimization, and production systems
+- 🌱 **Currently learning** scaling architecture and aligning product strategy with engineering constraints
+- 👯 **Looking to collaborate on** projects requiring statistical rigor, systems-level thinking, or end-to-end product vision
+- 💬 **Topics** full-stack web dev, statistical analysis & modeling, systems programming, AI product design
 - 📄 **My experiences** → [View Resume & Portfolio](https://drive.google.com/drive/folders/1AzITu2YOhHNva_rR5UtEYTPCkOd6RRcn?usp=sharing)
 
 ---
@@ -40,8 +40,11 @@ I build **systems that mix hardware, software, and field-ready product design**.
 ### Frameworks & Tools
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Hardware & Embedded
@@ -63,15 +66,6 @@ I build **systems that mix hardware, software, and field-ready product design**.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=z12ob&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&include_all_commits=true)
 
 </div>
-
----
-
-## Featured Project
-
-**[Personal Portfolio Website](https://www.guram-melikidze.com/)** - Built with Next.js, TypeScript, and Tailwind CSS
-- Modern, responsive design showcasing projects and experience
-- Optimized for performance and SEO
-- Interactive UI with smooth animations
 
 ---
 
