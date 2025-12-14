@@ -1,33 +1,99 @@
-<h1 align="center">Hi 👋, I'm Guram</h1>
-<h3 align="center">Solution Architect & Junior Product Manager 🚀 R&D, Embedded Systems, Full-Stack Development</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **systems that mix hardware, software, and field-ready product design. Real devices. Real constraints. Real users.**
+# Hi, I'm Guram Melikidze
 
-- 🌱 I’m currently learning **higher level system architecture and better ways to align engineering decisions with product strategy.**
+### Solution Architect & Junior Product Manager |
+### R&D | Embedded Systems | Full-Stack Development
 
-- 👯 I’m looking to collaborate on **projects where technical depth matters and vague specs need to become working products.**
+[![Portfolio](https://img.shields.io/badge/Portfolio-guram--melikidze.com-blue?style=for-the-badge&logo=google-chrome)](https://www.guram-melikidze.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/guram-melikidze/)
+[![Email](https://img.shields.io/badge/Email-contact@guram--melikidze.com-D14836?style=for-the-badge&logo=gmail)](mailto:contact@guram-melikidze.com)
 
-- 🤝 I’m looking for help with **scaling prototypes into production units without losing reliability.**
+![Profile Views](https://komarev.com/ghpvc/?username=z12ob&label=Profile%20views&color=0e75b6&style=flat)
 
-- 👨‍💻 All of my projects are available at [https://www.guram-melikidze.com/](https://www.guram-melikidze.com/)
+</div>
 
-- 💬 Ask me about **embedded systems, hardware design, full stack development, or taking a technical idea through a full build cycle.**
+---
 
-- 📫 How to reach me **contact@guram-melikidze.com**
+## About Me
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1AzITu2YOhHNva_rR5UtEYTPCkOd6RRcn?usp=sharing](https://drive.google.com/drive/folders/1AzITu2YOhHNva_rR5UtEYTPCkOd6RRcn?usp=sharing)
+I build **systems that mix hardware, software, and field-ready product design**. Real devices. Real constraints. Real users.
 
-- ⚡ Fun fact. **My fastest prototypes usually outlive the polished versions other teams build later.**
+- **Currently working on** production-grade systems that bridge hardware and software
+- **Currently learning** higher level system architecture and aligning engineering with product strategy
+- **Looking to collaborate on** projects where technical depth matters and vague specs need to become working products
+- **Need help with** scaling prototypes into production units without losing reliability
+- **Ask me about** embedded systems, hardware design, full stack development, or taking a technical idea through a full build cycle
+- **My experiences** ? [View Resume & Portfolio](https://drive.google.com/drive/folders/1AzITu2YOhHNva_rR5UtEYTPCkOd6RRcn?usp=sharing)
+- **Fun fact:** My fastest prototypes usually outlive the polished versions other teams build later
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/guram-melikidze/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guram-melikidze/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+## Tech Stack
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/ko-fi.com/gurammelikidze"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/gurammelikidze" /></a></p><br><br>
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=z12ob&" alt="z12ob" /></p>
+### Frameworks & Tools
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Hardware & Embedded
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+
+### Testing & Automation
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=z12ob&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=z12ob&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=z12ob&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## Featured Project
+
+**[Personal Portfolio Website](https://www.guram-melikidze.com/)** - Built with Next.js, TypeScript, and Tailwind CSS
+- Modern, responsive design showcasing projects and experience
+- Optimized for performance and SEO
+- Interactive UI with smooth animations
+
+---
+
+## Support My Work
+
+If you find my projects useful or interesting, consider buying me a coffee!
+
+<a href="https://ko-fi.com/gurammelikidze">
+  <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Buy me a coffee at ko-fi.com" />
+</a>
+
+---
+
+<div align="center">
+
+### ?? "Building things that work, in the real world, with real constraints."
+
+Made with <3 by Guram Melikidze
+
+</div>
