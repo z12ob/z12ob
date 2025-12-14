@@ -2,8 +2,7 @@
 
 # Hi, I'm Guram Melikidze
 
-### Solution Architect & Junior Product Manager |
-### R&D | Embedded Systems | Full-Stack Development
+### Data Analyst & Product/Project Manager 🚀 Full-Stack Development, R&D, Embedded Systems
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-guram--melikidze.com-blue?style=for-the-badge&logo=google-chrome)](https://www.guram-melikidze.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/guram-melikidze/)
@@ -19,13 +18,11 @@
 
 I build **systems that mix hardware, software, and field-ready product design**. Real devices. Real constraints. Real users.
 
-- **Currently working on** production-grade systems that bridge hardware and software
-- **Currently learning** higher level system architecture and aligning engineering with product strategy
-- **Looking to collaborate on** projects where technical depth matters and vague specs need to become working products
-- **Need help with** scaling prototypes into production units without losing reliability
-- **Ask me about** embedded systems, hardware design, full stack development, or taking a technical idea through a full build cycle
-- **My experiences** ? [View Resume & Portfolio](https://drive.google.com/drive/folders/1AzITu2YOhHNva_rR5UtEYTPCkOd6RRcn?usp=sharing)
-- **Fun fact:** My fastest prototypes usually outlive the polished versions other teams build later
+- 🔭 **Currently working on** production-grade systems that bridge hardware and software
+- 🌱 **Currently learning** higher level system architecture and aligning engineering with product strategy
+- 👯 **Looking to collaborate on** projects where technical depth matters
+- 💬 **Ask me about** embedded systems, hardware design, full stack development
+- 📄 **My experiences** → [View Resume & Portfolio](https://drive.google.com/drive/folders/1AzITu2YOhHNva_rR5UtEYTPCkOd6RRcn?usp=sharing)
 
 ---
 
@@ -63,8 +60,6 @@ I build **systems that mix hardware, software, and field-ready product design**.
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=z12ob&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=z12ob&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=z12ob&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&include_all_commits=true)
 
 </div>
@@ -90,10 +85,4 @@ If you find my projects useful or interesting, consider buying me a coffee!
 
 ---
 
-<div align="center">
 
-### ?? "Building things that work, in the real world, with real constraints."
-
-Made with <3 by Guram Melikidze
-
-</div>
